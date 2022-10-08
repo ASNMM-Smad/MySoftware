@@ -1,3 +1,5 @@
+#!/bin/python
+
 from clicking import click
 from welcoming import welcome
 
